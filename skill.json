@@ -1,0 +1,28 @@
+{
+  "name": "team-collaboration-dispatcher-skill",
+  "version": "1.0.0",
+  "description": "Deconstruct complex tasks into specialized AI expert segments and coordinate outcomes.",
+  "author": "alphaparkinc",
+  "category": "collaboration",
+  "tags": [
+    "multi-agent",
+    "collaboration",
+    "workflows",
+    "task-routing",
+    "analytics"
+  ],
+  "inputs": {
+    "goal_description": {
+      "type": "string",
+      "description": "Unified team mission to coordinate."
+    }
+  },
+  "outputs": {
+    "dispatch_plan": {
+      "type": "array",
+      "description": "Phased workflow tasks with assigned virtual agents."
+    }
+  },
+  "entrypoint": "client.py",
+  "example": "example_usage.py"
+}
