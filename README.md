@@ -1,4 +1,4 @@
-# team-collaboration-dispatcher-skill
+# genpark-team-collaboration-dispatcher-skill
 
 > **GenPark AI Agent Skill** -- Multi-agent task planning and routing dispatcher.
 
