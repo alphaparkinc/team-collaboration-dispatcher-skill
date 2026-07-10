@@ -1,8 +1,8 @@
 {
   "name": "team-collaboration-dispatcher-skill",
   "version": "1.0.0",
-  "description": "Deconstruct complex tasks into specialized AI expert segments and coordinate outcomes.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Deconstruct complex tasks into specialized AI expert segments and coordinate outcomes.",
+  "author": "genpark",
   "category": "collaboration",
   "tags": [
     "multi-agent",
